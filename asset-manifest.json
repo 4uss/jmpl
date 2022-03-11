@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.fed5bb45.chunk.css",
-    "main.js": "/static/js/main.8935a51c.chunk.js",
-    "main.js.map": "/static/js/main.8935a51c.chunk.js.map",
+    "main.css": "/static/css/main.7317002f.chunk.css",
+    "main.js": "/static/js/main.1300e542.chunk.js",
+    "main.js.map": "/static/js/main.1300e542.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.59ef9262.js",
     "runtime-main.js.map": "/static/js/runtime-main.59ef9262.js.map",
     "static/js/2.14e34cf4.chunk.js": "/static/js/2.14e34cf4.chunk.js",
     "static/js/2.14e34cf4.chunk.js.map": "/static/js/2.14e34cf4.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.fed5bb45.chunk.css.map": "/static/css/main.fed5bb45.chunk.css.map",
+    "static/css/main.7317002f.chunk.css.map": "/static/css/main.7317002f.chunk.css.map",
     "static/js/2.14e34cf4.chunk.js.LICENSE.txt": "/static/js/2.14e34cf4.chunk.js.LICENSE.txt",
     "static/media/ionicons.min.css": "/static/media/ionicons.b45d332f.svg",
     "static/media/styles.min.css": "/static/media/logo.66c24764.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.59ef9262.js",
     "static/js/2.14e34cf4.chunk.js",
-    "static/css/main.fed5bb45.chunk.css",
-    "static/js/main.8935a51c.chunk.js"
+    "static/css/main.7317002f.chunk.css",
+    "static/js/main.1300e542.chunk.js"
   ]
 }
