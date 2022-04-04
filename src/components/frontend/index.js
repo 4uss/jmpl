@@ -1,0 +1,9 @@
+export { default as Navigation } from "./Navigation";
+export { default as TopImage } from "./TopImage";
+export { default as DlaFirmy } from "./DlaFirmy";
+export { default as DlaCiebie } from "./DlaCiebie";
+export { default as DlaczegoJa } from "./DlaczegoJa";
+export { default as Footer } from "./Footer";
+export { default as Kontakt } from "./Kontakt";
+export { default as BackTop } from "./BackTop";
+export { default as Alert } from "./Alert";
